@@ -23,3 +23,7 @@ output
 ├──labels
 main.py
 ```
+
+## 生成画像例
+
+![SAMPLE](sample/img_00009.png?raw=true)
